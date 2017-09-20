@@ -7,6 +7,7 @@
     </head>
     <body>
         <h1> Jenkins poll scm </h1>
+        <h2> new line added </h2>
 
     </body>
 </html>
